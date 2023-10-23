@@ -1,1 +1,10 @@
-# adt2023_group-26
+# Applied Database Technologies [ Fall 2023 ]
+## Group 26
+This repository created and managed as part of the Applied Database Technologies course curricullum for Fall 2023 Group 26.
+
+Team:
+<ul>
+<li>Abhijith Dameruppala</li>
+<li>Fhariya Aseem Fathima</li>
+<li>Viswa Suhaas Penugonda</li>
+</ul>
